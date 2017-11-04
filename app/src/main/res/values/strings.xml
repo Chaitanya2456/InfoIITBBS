@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfoIITBBS</string>
+    <string name="title_activity_mm">mmActivity</string>
+    <string name="title_activity_pen">penActivity</string>
+</resources>
